@@ -1,7 +1,7 @@
 # ejemplo2
 
 ## Introduccion
- *mmino*
+ Esta es una introduccion
 
 
 ## Profesores
