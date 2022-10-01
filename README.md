@@ -1,11 +1,12 @@
 # ejemplo2
 
 ## Introduccion
-mmino
+ *mmino*
 
 
 ## Profesores
-lara
+ * lara
+ * aaaa
 
 
 ## Integrantes
