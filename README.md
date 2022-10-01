@@ -5,8 +5,8 @@
 
 
 ## Profesores
- * lara
- * aaaa
+ * Miguel Ignacio Miño
+ * Julián Abrego
 
 
 ## Integrantes
