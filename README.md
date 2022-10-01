@@ -10,6 +10,8 @@
 
 
 ## Integrantes
-Nicolas 
+Nicolas Leyes
+Lara Rapoport	
+Miguel Miño
 
 
