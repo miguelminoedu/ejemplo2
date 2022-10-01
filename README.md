@@ -1,8 +1,14 @@
 # ejemplo2
 
-Nicolas modifico esto!
+## Introduccion
+mmino
 
 
-zzzzz
+## Profesores
+lara
 
-hola como estas 
+
+## Integrantes
+Nicolas 
+
+
